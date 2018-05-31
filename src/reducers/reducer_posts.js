@@ -1,5 +1,5 @@
 import { FETCH_POSTS } from "../actions";
-import - from 'lodash';
+import _ from 'lodash';
 
 export default function(state = {}, action) {
 	switch(action.type) {
